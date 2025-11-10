@@ -45,7 +45,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    androidTestImplementation("androidx.arch.core:core-testing:2.2.0")
 
     implementation(libs.room.runtime)
     annotationProcessor( libs.room.compiler)
+
 }

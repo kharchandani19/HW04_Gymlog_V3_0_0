@@ -2,4 +2,6 @@
     <string name="app_name">HW04_Gymlog_V3.0.0</string>
     <string name="log">Log!</string>
     <string name="enter_reps">Enter Reps</string>
+    <string name="preference_file_key">com.example.hw04_gymlog_v300.PREFERENCE_FILE_KEY</string>
+    <string name="preference_user_id_key">com.example.hw04_gymlog_v300.PREFERENCE_USER_ID_KEY</string>
 </resources>
